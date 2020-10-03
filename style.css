@@ -1,0 +1,20 @@
+button{background-color:#EC3C73;
+   border:none;
+   padding:5px 20px;
+   font-size:15pt;
+   color:white;
+   margin-left:70%;
+   margin-top:0pt;
+}
+i2{margin-left:50%;
+   margin-top:0%;
+   font-size:15pt;
+}
+#right{display:inline;}
+p{font-size:30pt;
+   color:black;
+   text-align:center;
+   text-shadow:-3px 3px 5px #EC3C73;
+   font-style:sans-serif;
+}
+#right{display:inline;}
