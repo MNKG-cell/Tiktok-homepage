@@ -4,17 +4,30 @@ button{background-color:#EC3C73;
    font-size:15pt;
    color:white;
    margin-left:70%;
-   margin-top:0pt;
+   display:inline-block;
+ 
 }
+i1{margin-left:0px;}
 i2{margin-left:50%;
-   margin-top:0%;
+   
    font-size:15pt;
+   position:relative;
 }
 #right{display:inline;}
 p{font-size:30pt;
    color:black;
+   animation-fill-mode:;
    text-align:center;
    text-shadow:-3px 3px 5px #EC3C73;
    font-style:sans-serif;
+   font-weight:bold;
 }
 #right{display:inline;}
+p1{
+   font-size:20pt;
+   font-weight:bolder;} 
+   p2{font-size:10pt;}
+   
+.box{text-align:center;
+   margin-top:5px;
+} 
