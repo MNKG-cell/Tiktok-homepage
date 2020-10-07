@@ -1,4 +1,4 @@
-button{background-color:#EC3C73;
+#start{background-color:#EC3C73;
    border:none;
    padding:5px 20px;
    font-size:15pt;
@@ -13,7 +13,7 @@ i2{margin-left:50%;
    font-size:15pt;
    position:relative;
 }
-#right{display:inline;}
+
 p{font-size:30pt;
    color:black;
    animation-fill-mode:;
@@ -22,7 +22,6 @@ p{font-size:30pt;
    font-style:sans-serif;
    font-weight:bold;
 }
-#right{display:inline;}
 p1{
    font-size:20pt;
    font-weight:bolder;} 
@@ -31,6 +30,17 @@ p1{
 .box{text-align:center;
    margin-top:5px;
 } 
-. Container{display:inline;
+
    
+
+#blocks{text-align:center;
+   margin-bottom:860pt;
+   margin-left:30%
+   font-size:20pt;
+   border:none;
+   background-color:#EC3C73;
+   padding:8px 14px; 
+   color:white;
 }
+
+
